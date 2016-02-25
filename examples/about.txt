@@ -1,0 +1,9 @@
+	This is a Sipmle RPG engine.
+
+	You can change map if you want
+	to create your own game world.
+	Please follow rules, 
+	do it same way as it is now.
+
+	Author: Ecnill
+	Project for PA2 FIT CTU

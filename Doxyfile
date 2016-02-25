@@ -1,0 +1,10 @@
+PROJECT_NAME    = "RPG"
+PROJECT_BRIEF   = "Sipmle RPG engine"
+GENERATE_LATEX  = NO
+EXTRACT_ALL     = YES
+EXTRACT_PRIVATE = YES
+INPUT           = ./src 
+RECURSIVE       = YES
+HAVE_DOT        = YES
+UML_LOOK        = YES
+HTML_OUTPUT     = ./doc
